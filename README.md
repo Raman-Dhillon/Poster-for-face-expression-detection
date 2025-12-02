@@ -2,7 +2,7 @@
 An AI model using Landing AI: A model that detects face expression.It detects a person is happy,sad,angry or excited based on their face expressions.
 
 ## 📌 Models Included
-## Model 1. Face Expression Detection
+## Model . Face Expression Detection
 ## 1. Methodology ##
 <img width="1243" height="114" alt="photo2" src="https://github.com/user-attachments/assets/c3a1d347-fea6-4b60-a998-965c101ba14e" />
 
